@@ -1,0 +1,23 @@
+body, html {
+    height: 100%;
+  }
+  
+  .bg { 
+    /* The image used */
+    background-image: url("https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/65238023_905283853164970_7858345496480317440_n.jpg?_nc_cat=106&_nc_oc=AQlCrjY1XEvvmAQudaVNTuAPk1leFQ00n9vI9APbt6ePWkT4n_SDi86b61gkHdMzj64&_nc_ht=scontent-sjc3-1.xx&oh=c12d90a5d7bb04c5af88aca0fe8bbb6e&oe=5D8D0690");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  #chill{
+      height: 100%;
+      width: 30%;  
+      font-size: 4vw;
+      text-align: center
+}
