@@ -1,0 +1,1 @@
+$('audio#sound')[0].play()
